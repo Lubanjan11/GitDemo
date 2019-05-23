@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54" started-at="2019-05-08T16:51:38Z" finished-at="2019-05-08T16:51:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54" started-at="2019-05-08T16:51:38Z" finished-at="2019-05-08T16:51:38Z">
+      <class name="PNT.RESTAPITest">
+        <test-method status="PASS" signature="postjiradefected()[pri:0, instance:PNT.RESTAPITest@3abbfa04]" name="postjiradefected" duration-ms="11" started-at="2019-05-08T16:51:38Z" finished-at="2019-05-08T16:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjiradefected -->
+        <test-method status="PASS" signature="twiterdefect()[pri:0, instance:PNT.RESTAPITest@3abbfa04]" name="twiterdefect" duration-ms="0" started-at="2019-05-08T16:51:38Z" finished-at="2019-05-08T16:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twiterdefect -->
+      </class> <!-- PNT.RESTAPITest -->
+      <class name="PNT.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:PNT.SeleniumTest@31ef45e3]" name="BrowserAutomation" duration-ms="1" started-at="2019-05-08T16:51:38Z" finished-at="2019-05-08T16:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="checkpointmethod()[pri:0, instance:PNT.SeleniumTest@31ef45e3]" name="checkpointmethod" duration-ms="1" started-at="2019-05-08T16:51:38Z" finished-at="2019-05-08T16:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkpointmethod -->
+      </class> <!-- PNT.SeleniumTest -->
+      <class name="PNT.AppiumTest">
+        <test-method status="PASS" signature="algaapps()[pri:0, instance:PNT.AppiumTest@57fffcd7]" name="algaapps" duration-ms="0" started-at="2019-05-08T16:51:38Z" finished-at="2019-05-08T16:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- algaapps -->
+        <test-method status="PASS" signature="natoapp()[pri:0, instance:PNT.AppiumTest@57fffcd7]" name="natoapp" duration-ms="1" started-at="2019-05-08T16:51:38Z" finished-at="2019-05-08T16:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- natoapp -->
+      </class> <!-- PNT.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
